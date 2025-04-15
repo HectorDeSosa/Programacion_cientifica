@@ -1,0 +1,2 @@
+nombre= "Katherine"
+print (nombre)
