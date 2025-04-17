@@ -2,24 +2,16 @@
 # 2025
 # Programacion Cientifica
 # CONTENIDO del Punto:
-#   Pide la hora actual (formato 24h) e imprime:
-#   "Buenos días" si es antes de las 12.
-#   "Buenas tardes" si es entre las 12 y 18.
-#   "Buenas noches" si es después de las 18.
-
+#   La lista del punto 9 convertir en una tupla.
 #Respuesta:
 
-hora = input("Ingrese la hora en formato 24h: ")
-#formato 12:30
-#formato 23:50 
+#son 6 numeros que se deben ingresar 
+lista_numeros =[2,4,5,1,3,7,8,9,10,6]
 
-formato_hora = int(hora [:2])
+lista_numeros.sort() #ordena la lista de menor a mayor
 
-#print(formato_hora) #ayuda para ver avance de algoritmo
+lista_numeros.reverse() #invierte el orden
 
-if formato_hora < 12:
-    print("Buenos dias")
-elif formato_hora  < 18:
-    print("Buenas tardes")
-else:
-    print("Buenas noches")
+tupla_numeros = tuple(lista_numeros) #convierte en tupla
+
+print("La tupla es: ",tupla_numeros)

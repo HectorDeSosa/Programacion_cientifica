@@ -2,20 +2,16 @@
 # 2025
 # Programacion Cientifica
 # CONTENIDO del Punto:
-#   Pide dos números y muestra la suma, resta y multiplicación de ambos.
+#   Escribir un programa que pregunte al usuario los números ganadores de la lotería primitiva, 
+#   los almacene en una lista y los muestre por pantalla ordenados de menor a mayor..
 #Respuesta:
 
-numero1 = int(input("Ingrese el primer numero: "))
-numero2 = float(input('Ingrese el segundo numero: '))
+#son 6 numeros que se deben ingresar 
+lista_numeros =[]
 
-suma = numero1 + numero2
+for x in range(1,7):
+    numero = int(input(f'Ingrese el numero {x}: '))
+    lista_numeros.append(numero)
+lista_numeros.sort()
 
-resta = numero1 - numero2
-
-multiplicacion = numero1 * numero2
-
-print("La suma es: ", suma)
-
-print(f'La resta es: {resta}')
-
-print('La multiplicacion es: {0}'.format(multiplicacion))
+print('La lista de numeros de la primitiva ordenado es: ', lista_numeros)
