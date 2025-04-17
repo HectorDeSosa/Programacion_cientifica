@@ -2,16 +2,16 @@
 # 2025
 # Programacion Cientifica
 # CONTENIDO del Punto:
-#   Escribir un programa que pregunte al usuario los números ganadores de la lotería primitiva, 
-#   los almacene en una lista y los muestre por pantalla ordenados de menor a mayor..
+#   Desarrolle un programa que, dados los tres lados 
+#   de un triángulo en centímetros, calcule y muestre 
+#   tanto su área como su perímetro. A continuación, podemos 
+#   observar un ejemplo de lo que se espera que el programa muestre 
+#   en el caso de que el usuario ingrese valores de 3, 4 y 5 para cada 
+#   uno de los lados (tener en cuenta que valores pueden adoptar una unidad de medida).
+
 #Respuesta:
+lado_a = float(input())
 
-#son 6 numeros que se deben ingresar 
-lista_numeros =[]
 
-for x in range(1,7):
-    numero = int(input(f'Ingrese el numero {x}: '))
-    lista_numeros.append(numero)
-lista_numeros.sort()
 
-print('La lista de numeros de la primitiva ordenado es: ', lista_numeros)
+
