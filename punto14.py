@@ -2,7 +2,7 @@
 # 2025
 # Programacion Cientifica
 # CONTENIDO del Punto:
-#   En un almacén se descuenta 20% del precio al cliente 
+#   En un almacén se descuenta 20% del precio al cliente
 #   si el valor a pagar es mayor a $200. 
 #   Dado un valor de precio, muestre lo que debe pagar el cliente.
 #Respuesta:
