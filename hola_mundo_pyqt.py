@@ -29,7 +29,7 @@ class Ui_MainWindow(object):
         _translate = QtCore.QCoreApplication.translate
         MainWindow.setWindowTitle(_translate("MainWindow", "MainWindow"))
         self.pushButton.setText(_translate("MainWindow", "Hola mundo:D"))
-    def printHello(self): # 1) Creamos el método printHello
+    def printHello(self): # 1) Creamos el método print hola mundo
         print("Hola mundo desde el boton Enviar")
 if __name__ == "__main__":
     import sys
