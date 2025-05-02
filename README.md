@@ -1,4 +1,5 @@
 # Programacion-Cientifica
-Este es un repositorio de la materia de programacion cientifica, contiene algunos ejercicios del trabajo practico segun la unidad.
-Crear una rama para cada unidad
-Nombre de rama: Unidad_2
+Esta rama hace referencia a los temas de interfaces grafica
+
+Se hace enfasis en algunas herramientas como tkinder
+PyQt, Django y Flask
