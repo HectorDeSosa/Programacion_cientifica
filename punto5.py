@@ -21,10 +21,7 @@ def cargar_producto(inventario):
     precio = float(input("Ingrese el precio unitario del producto: "))
     cantidad = int(input("Ingrese la cantidad disponible del producto: "))
     
-    inventario[nombre] = {
-        'precio': precio,
-        'cantidad': cantidad
-    }
+    inventario[nombre] = {'precio': precio,'cantidad': cantidad}
     print(f"Producto '{nombre}' cargado exitosamente.")
     return inventario
 
@@ -37,6 +34,7 @@ def buscar_producto(inventario, nombre):
 def main():
     inventario = {}
     while True:
+        print("\n")
         print("Bienvenido al sistema de gestión de inventario.")
         print("1. Cargar producto")
         print("2. Listar productos")
@@ -56,7 +54,8 @@ def main():
             buscar_producto(inventario, producto)
         elif opcion == 4:
             #calcular valor total del inventario
-            valor_total = sum(datos['precio'] * datos['cantidad'] for datos in inventario.values())
+            for datos in inventario.values():
+                valor_total = sum(datos['precio'] * datos['cantidad'])
             print(f"El valor total del inventario es: {valor_total:.2f}")
         elif opcion == 5:
             print("Saliendo del programa.")
