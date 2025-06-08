@@ -20,7 +20,7 @@ def cargar_producto(inventario):
     nombre = input("Ingrese el nombre del producto: ")
     precio = float(input("Ingrese el precio unitario del producto: "))
     cantidad = int(input("Ingrese la cantidad disponible del producto: "))
-    
+    #usar diccionarios anidados
     inventario[nombre] = {'precio': precio,'cantidad': cantidad}
     print(f"Producto '{nombre}' cargado exitosamente.")
     return inventario
@@ -31,6 +31,7 @@ def buscar_producto(inventario, nombre):
         print(f"Producto encontrado: {nombre}, Precio: {datos['precio']}, Cantidad: {datos['cantidad']}")
     else:
         print(f"Producto '{nombre}' no encontrado en el inventario.")
+        
 def main():
     inventario = {}
     while True:
