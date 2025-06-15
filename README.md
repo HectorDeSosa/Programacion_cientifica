@@ -1,2 +1,2 @@
 # Programacion-Cientifica
-Esta rama hace referencia a la evalucion parcial, primer evaluación 
+Esta rama hace referencia a la primer evaluacion parcial
