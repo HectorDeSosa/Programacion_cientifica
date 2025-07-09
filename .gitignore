@@ -1,4 +1,14 @@
-__pycache__/
-dist/
+# Carpetas generadas por PyInstaller
 build/
-primerapptk.spec
+dist/
+
+# Archivo de configuración de PyInstaller
+*.spec
+
+# Cachés de Python
+__pycache__/
+*.pyc
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
