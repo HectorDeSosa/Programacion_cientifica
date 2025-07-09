@@ -32,8 +32,7 @@ raiz.title('Aplicación')
 # que cuando sea presionado hará que termine el programa.
 # El primer parámetro indica el nombre de la ventana 'raiz'
 # donde se ubicará el botón
-
-ttk.Button(raiz, text='Salir', command=quit).pack(side=BOTTOM)
+ttk.Button(raiz, text='Salir', command=raiz.destroy).pack(side=BOTTOM)
 
 # Después de definir la ventana principal y un widget botón
 # la siguiente línea hará que cuando se ejecute el programa
