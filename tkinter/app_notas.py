@@ -49,3 +49,4 @@ if __name__ == "__main__":
     root = tk.Tk()
     app = AppNotas(root)
     root.mainloop()
+#https://www.codigofuentegratis.net/%F0%9F%93%9D-como-crear-una-app-de-notas-con-python-y-tkinter/
