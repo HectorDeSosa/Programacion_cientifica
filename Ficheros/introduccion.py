@@ -5,7 +5,6 @@
 # lectura, escritura, lectura/escritura, adicion, cerrar
 #importancia de cerrar los archivos
 
-
 # Paso 1: abrir el fichero.
 fichero = open('Ficheros/ejemplo.txt','r')
 # Paso 2: leer los datos del fichero.
