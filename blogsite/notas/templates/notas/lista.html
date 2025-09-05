@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Notas</title>
+</head>
+<body>
+    <h1>Lista de Notas</h1>
+    <ul>
+        {% for nota in notas %}
+        <li><b>{{ nota.titulo }}</b> - {{ nota.contenido }} ({{ nota.fecha }})</li>
+        {% endfor %}
+    </ul>
+</body>
+</html>

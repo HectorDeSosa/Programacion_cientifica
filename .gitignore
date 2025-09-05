@@ -1,6 +1,7 @@
 # Carpetas generadas por PyInstaller
 build/
 dist/
+venv/
 
 # Archivo de configuración de PyInstaller
 *.spec

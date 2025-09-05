@@ -1,0 +1,19 @@
+widgets, Widgets meteorológicos; Widgets de calendario
+Widgets de reloj; Widgets de noticias; de busqueda (la barra de busqueda)
+builder,(Constructor) es un patrón creacional que 
+permite construir objetos complejos paso a paso.
+
+self, Estos son temas de Programación Orientada a Objetos y 
+hay un curso de eso, pero a grandes rasgos self hace referecia a 
+los atributos de la clase misma, a los que pertenecen a ese objeto 
+en especifico (porque en POO puedes heredar atributos de otras clases).
+
+Veelo de la siguiente forma: Tu como ser humano heredaste 
+cualidades de tus papás, tal vez el cabello, la estatura, 
+los ojos, algunos razgos en el mentón, etc. Pero tu tienes 
+atributos propios de ti que tus papás no, quizá tu voz, 
+tu caractér, quizá tus gustos musicales, etc.
+
+Lo mismo sucede con las clases en Python, self (uno mismo en inglés)
+se usa para indicar y acceder a los atributos que pertenecen a esa 
+clase. (porque explicito es mejor que implicito).
