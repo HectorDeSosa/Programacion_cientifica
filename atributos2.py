@@ -6,6 +6,13 @@ class Perro:
         # Atributos de instancia
         self.nombre = nombre
         self.raza = raza
+
+
+
+
+
+
+        
 mi_perro = Perro("Toby", "Bulldog")
 print(type(mi_perro))
 # Creando perro Toby, Bulldog
