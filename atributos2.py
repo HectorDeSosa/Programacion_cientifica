@@ -8,13 +8,9 @@ class Perro:
         self.raza = raza
 
 
+p1 = Perro("Toby", "Bulldog")
 
-
-
-
-        
-mi_perro = Perro("Toby", "Bulldog")
-print(type(mi_perro))
+print(type(p1))
 # Creando perro Toby, Bulldog
-print(mi_perro.nombre) # Toby
-print(mi_perro.raza)   # Bulldog
+print(p1.nombre) # Toby
+print(p1.raza)   # Bulldog
