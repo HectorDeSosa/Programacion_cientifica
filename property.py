@@ -1,1 +1,0 @@
-#https://ellibrodepython.com/decorador-property-python
