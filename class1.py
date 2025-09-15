@@ -1,9 +1,13 @@
 # Creando una clase vacía
 class Perro:
     pass
-# Creamos un objeto de la clase perro
-mi_perro = Perro()
-tu_perro = Perro()
+#Crear clases de otros animales
 
-print(type(mi_perro))
-print(type(tu_perro))
+
+#Crear clase de Objetos del Aula
+
+# Creamos un objeto de la clase perro
+p1 = Perro()
+p2 = Perro()
+
+print(type(p1))
