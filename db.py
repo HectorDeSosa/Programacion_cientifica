@@ -31,7 +31,7 @@ def get_all_books():
     db = sqlite3.connect('database.db')
     query = 'SELECT name, completed_at, price FROM BOOKS'
     cur = db.cursor()
-    items_io = cur.execute(statement)
+    items_io = cur.execute(query)
     item_lst = [i for i in items_io]
     return item_lst
 def update_book(book_id, updated_name, updated_completed_date, updated_price):
@@ -53,3 +53,6 @@ def delete_book(book_id):
     db.commit()
     # Close the database connection
     db.close()
+
+if __name__ == "__main__":
+    create_table()
