@@ -3,7 +3,7 @@ from sqlite3 import Error
 
 
 #definicion de tabla
-create_tabla_cliente = """
+create_tabla_client = """
 CREATE TABLE CLIENTE
 (
   NumCliente INT NOT NULL,
@@ -21,6 +21,7 @@ def create_connection(path):
     except Error as e:
         print(f"Ocurrio un error'{e}'")
     return connection
+#funcion para ejecutar consultas
 def execute_query(connection, consulta):
     cursor = connection.cursor()
     try:
@@ -32,7 +33,7 @@ def execute_query(connection, consulta):
 #crear conexion
 connection = create_connection("ejercicio1db.sqlite")
 #ejecutar una consulta o un comando
-execute_query(connection, create_tabla_cliente)
+execute_query(connection, create_tabla_client)
 
 create_client = """
 INSERT INTO
