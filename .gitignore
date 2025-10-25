@@ -1,3 +1,5 @@
 venv
 #no incluir los archivos sqlite
 *.sqlite
+*._pycache__
+# Ignorar archivos temporales de editores
