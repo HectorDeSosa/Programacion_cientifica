@@ -1,5 +1,5 @@
 # De Sosa Hector
-# 2025
+# 202X
 # Programacion Cientifica
 # CONTENIDO del Punto:
 #   Escribir un programa que almacene la cadena ¡Hola Mundo! en una 

@@ -1,5 +1,5 @@
 # De Sosa Hector
-# 2025
+# 202X
 # Programacion Cientifica
 # CONTENIDO del Punto:
 #   Escribí un programa que solicite al usuario 
