@@ -1,5 +1,5 @@
 # De Sosa Hector
-# 2025
+# 202X
 # Programacion Cientifica
 # CONTENIDO del Punto:
 #   Escriba un programa que pida una cantidad y que escriba cuántas gruesas, docenas y unidades son.

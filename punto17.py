@@ -1,6 +1,6 @@
 
 # De Sosa Hector
-# 2025
+# 202X
 # Programacion Cientifica
 # CONTENIDO del Punto: 
 #   Escriba un programa que pida una distancia en pies y pulgadas y que escriba esa distancia en centímetros. 
