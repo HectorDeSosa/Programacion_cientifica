@@ -1,5 +1,5 @@
 # De Sosa Hector
-# 2025
+# 202X
 # Programacion Cientifica
 # CONTENIDO del Punto:
 #   Escriba un programa para copiar los elementos 44 y 55 de la siguiente tupla en una tupla nueva.

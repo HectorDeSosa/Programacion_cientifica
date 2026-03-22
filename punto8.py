@@ -1,5 +1,5 @@
 # De Sosa Hector
-# 2025
+# 202X
 # Programacion Cientifica
 # CONTENIDO del Punto:
 #   Escribir un programa que pregunte al usuario los números ganadores de la lotería primitiva, 
