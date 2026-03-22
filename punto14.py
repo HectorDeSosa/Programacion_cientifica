@@ -1,5 +1,5 @@
 # De Sosa Hector
-# 2025
+# 202X
 # Programacion Cientifica
 # CONTENIDO del Punto:
 #   En un almacén se descuenta 20% del precio al cliente

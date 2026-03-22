@@ -1,5 +1,5 @@
 # De Sosa Hector
-# 2025
+# 202X
 # Programacion Cientifica
 # CONTENIDO del Punto:
 #   Desarrolle un programa que, dados los tres lados 

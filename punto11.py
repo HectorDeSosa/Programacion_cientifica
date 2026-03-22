@@ -1,5 +1,5 @@
 # De Sosa Hector
-# 2025
+# 202X
 # Programacion Cientifica
 # CONTENIDO del Punto:
 #   Escriba un programa que, dada una lista o tupla de números, 
