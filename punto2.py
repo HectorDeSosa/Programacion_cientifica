@@ -1,5 +1,4 @@
 # De Sosa Hector
-# 202X
 # Programacion Cientifica
 # CONTENIDO del Punto:
 # Escribir un programa que almacene la cadena ¡Hola Mundo! en una \
