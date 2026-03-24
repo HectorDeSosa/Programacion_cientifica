@@ -1,5 +1,4 @@
 # De Sosa Hector
-# 202X
 # Programacion Cientifica
 # CONTENIDO del Punto:
 #   Definir dos variables de tipo string y sumarlas. ¿Qué resultados obtuvo?

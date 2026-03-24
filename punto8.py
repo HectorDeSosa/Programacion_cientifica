@@ -1,5 +1,4 @@
 # De Sosa Hector
-# 202X
 # Programacion Cientifica
 # CONTENIDO del Punto:
 #   Pide dos números y muestra la suma, resta y multiplicación de ambos.

@@ -1,5 +1,4 @@
 # De Sosa Hector
-# 202X
 # Programacion Cientifica
 # CONTENIDO del Punto:
 #   Ingresa por consola una expresión luego conviértase en mayúscula.

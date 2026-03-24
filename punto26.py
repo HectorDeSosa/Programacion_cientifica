@@ -1,5 +1,4 @@
 # De Sosa Hector
-# 202X
 # Programacion Cientifica
 # CONTENIDO del Punto:
 #   Intercambia los valores de dos variables x=10 e y=5 usando asignación múltiple.

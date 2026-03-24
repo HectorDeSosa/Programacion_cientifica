@@ -1,5 +1,4 @@
 # De Sosa Hector
-# 202X
 # Programacion Cientifica
 # CONTENIDO del Punto:
 #   Pide la hora actual (formato 24h) e imprime:
@@ -23,3 +22,4 @@ elif formato_hora  < 18:
     print("Buenas tardes")
 else:
     print("Buenas noches")
+    

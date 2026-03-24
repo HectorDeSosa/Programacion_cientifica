@@ -1,10 +1,8 @@
-
 # De Sosa Hector
-# 202X
 # Programacion Cientifica
 # CONTENIDO del Punto: 
-#   Escriba un programa que pida una distancia en pies y pulgadas y que escriba esa distancia en centímetros. 
-#   Se recuerda que un pie son doce pulgadas y una pulgada son 2,54 cm.
+# Escriba un programa que pida una distancia en pies y pulgadas y que escriba esa distancia en centímetros. 
+# Se recuerda que un pie son doce pulgadas y una pulgada son 2,54 cm.
 
 
 #Respuesta:
